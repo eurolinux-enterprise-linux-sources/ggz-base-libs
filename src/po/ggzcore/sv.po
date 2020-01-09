@@ -1,0 +1,91 @@
+# This translation was merged from GNOME SVN
+# (http://svn.gnome.org/svn/gnome-games/trunk/po/sv.po)
+# Swedish messages for gnome-games.
+# Copyright (C) 1999-2007 Free Software Foundation, Inc.
+# Daniel Nylander <po@danielnylander.se>, 2006, 2007.
+# Andreas Persenius <ndap@swipnet.se>, 1999.
+# Andreas Hyden <a.hyden@cyberpoint.se>
+# Martin Norbäck <d95mback@dtek.chalmers.se>, 2000.
+# Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003, 2004, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-11-11 22:00+0100\n"
+"PO-Revision-Date: 2007-11-11 12:09+0100\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../ggzcore/netxml.c:1279
+msgid "Unknown error"
+msgstr "Okänt fel"
+
+#: ../../ggzcore/server.c:888
+msgid "Unknown negotiation"
+msgstr "Okänd negation"
+
+#: ../../ggzcore/server.c:915
+msgid "Already logged in"
+msgstr "Redan inloggad"
+
+#: ../../ggzcore/server.c:918
+msgid "The password was incorrect"
+msgstr "Lösenordet var felaktigt"
+
+#: ../../ggzcore/server.c:921
+msgid "Name is already taken"
+msgstr "Namnet är upptaget"
+
+#: ../../ggzcore/server.c:924
+msgid "This name is already registered so cannot be used by a guest"
+msgstr ""
+"Det här namnet är redan registrerat så det kan inte användas av en gäst"
+
+#: ../../ggzcore/server.c:928
+msgid "No such name was found"
+msgstr "Inget sådant namn hittades"
+
+#: ../../ggzcore/server.c:931
+msgid "Name too long"
+msgstr "Namnet är för långt"
+
+#: ../../ggzcore/server.c:942
+msgid "Missing password or other bad options."
+msgstr "Saknar lösenord eller andra felaktiga alternativ."
+
+#: ../../ggzcore/server.c:946
+msgid "Unknown login error"
+msgstr "Okänt inloggningsfel"
+
+#: ../../ggzcore/server.c:968
+msgid "Room full"
+msgstr "Rummet är fullt"
+
+#: ../../ggzcore/server.c:971
+msgid "Can't change rooms while at a table"
+msgstr "Kan inte byta rum när du sitter vid ett bord"
+
+#: ../../ggzcore/server.c:975
+msgid "Can't change rooms while joining/leaving a table"
+msgstr "Kan inte byta rum vid gå med/lämna ett bord"
+
+#: ../../ggzcore/server.c:979
+msgid "Bad room number"
+msgstr "Fel rumsnummer"
+
+#: ../../ggzcore/server.c:982
+msgid "Insufficient permissions, room access is restricted"
+msgstr "Otillräckliga rättigheter, tillgång till rummet är begränsat"
+
+#: ../../ggzcore/server.c:1177
+msgid "Unable to connect"
+msgstr "Kunde inte ansluta"
+
+#: ../../ggzcore/server.c:1421 ../../ggzcore/server.c:1438
+msgid "Protocol mismatch"
+msgstr "Protokollet stämmer inte"

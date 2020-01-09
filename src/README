@@ -1,0 +1,35 @@
+======================================================
+The GGZ Gaming Zone - Base Libraries - Snapshot 0.99.5
+======================================================
+
+This package contains the GGZ Gaming Zone base libraries.
+The libraries provide the common procedures and utilities required to run
+the GGZ clients and games. The routines are shared by other packages in
+order to ease coding and promote compatibility and stability.
+
+The following libraries and tools are included:
+
+* libggz, containing many convenience functions for C programming. It is used
+  by the GGZ Gaming Zone server (ggzd), the other libraries in this package,
+  as well as some clients and games.
+* ggzcore, the core client library which implements the client side of the
+  main GGZ server to client protocol.
+* ggzmod, the game client library which implements the game side of the
+  GGZ core client to game client protocol; as well as ggzmod-ggz, the
+  internal static library which implements the core client side of the
+  same protocol.
+* ggz-config, a configuration tool for GGZ installations.
+
+Please read 'INSTALL' if you aren't experienced with the build yet.
+For an overall view on the GGZ setup procedures, please consult the
+file README.GGZ
+
+Have a look at QuickStart.GGZ is you just want to get started.
+
+If you encounter any bugs, please send them to the mailing list,
+	<ggz-dev@mail.ggzgamingzone.org>.
+Or use the bug tracker at http://bugs.ggzgamingzone.org/.
+
+Have fun!
+	The GGZ Gaming Zone Development Team
+

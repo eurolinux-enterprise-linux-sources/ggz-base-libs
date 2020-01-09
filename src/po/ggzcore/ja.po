@@ -1,0 +1,97 @@
+# This translation was merged from GNOME SVN
+# (http://svn.gnome.org/svn/gnome-games/trunk/po/ja.po)
+# gnome-games ja.po.
+# Copyright (C) 1998-2007 Free Software Foundation, Inc.
+# Yukihiro Nakai <Nakai@technologist.com>, 1998
+# Akira Higuchi <a-higuti@math.sci.hokudai.ac.jp>, 1999
+# Yuusuke Tahara <tahara@gnome.gr.jp>, 2000
+# Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2002
+# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2001-2007.
+# KAMAGASAKO Masatoshi <emerald@gnome.gr.jp>, 2003
+# Satoru SATOH <ss@gnome.gr.jp>, 2006
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games trunk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-11-11 22:00+0100\n"
+"PO-Revision-Date: 2007-09-13 20:16+0900\n"
+"Last-Translator: Takeshi AIHANA <takeshi.aihana@gmail.com>\n"
+"Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../ggzcore/netxml.c:1279
+msgid "Unknown error"
+msgstr "原因不明のエラー"
+
+#: ../../ggzcore/server.c:888
+msgid "Unknown negotiation"
+msgstr "不明なネゴシエーションです"
+
+#: ../../ggzcore/server.c:915
+msgid "Already logged in"
+msgstr "既にログイン済みです"
+
+#: ../../ggzcore/server.c:918
+msgid "The password was incorrect"
+msgstr "パスワードが間違っていました"
+
+#: ../../ggzcore/server.c:921
+msgid "Name is already taken"
+msgstr "名前は既に取得済みです"
+
+#: ../../ggzcore/server.c:924
+msgid "This name is already registered so cannot be used by a guest"
+msgstr "その名前は既に登録済みなので利用できません"
+
+#: ../../ggzcore/server.c:928
+msgid "No such name was found"
+msgstr "そのような名前が見つかりませんでした"
+
+#: ../../ggzcore/server.c:931
+msgid "Name too long"
+msgstr "名前が長すぎます"
+
+#: ../../ggzcore/server.c:942
+msgid "Missing password or other bad options."
+msgstr ""
+""
+"パスワードが存在しない、またはオプションが間違っています"
+
+#: ../../ggzcore/server.c:946
+msgid "Unknown login error"
+msgstr "原因不明のログイン・エラーです"
+
+#: ../../ggzcore/server.c:968
+msgid "Room full"
+msgstr "満員です"
+
+#: ../../ggzcore/server.c:971
+msgid "Can't change rooms while at a table"
+msgstr "テーブルについている間は部屋を変更できません"
+
+#: ../../ggzcore/server.c:975
+msgid "Can't change rooms while joining/leaving a table"
+msgstr ""
+""
+"テーブルについている/抜けている間は部屋を変更できません"
+
+#: ../../ggzcore/server.c:979
+msgid "Bad room number"
+msgstr "部屋の番号が間違っています"
+
+#: ../../ggzcore/server.c:982
+msgid "Insufficient permissions, room access is restricted"
+msgstr ""
+"権限が不適切です (部屋へのアクセスが拒否されました)"
+
+#: ../../ggzcore/server.c:1177
+msgid "Unable to connect"
+msgstr "接続できません"
+
+#: ../../ggzcore/server.c:1421 ../../ggzcore/server.c:1438
+msgid "Protocol mismatch"
+msgstr "プロトコルが一致しません"
